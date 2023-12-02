@@ -1,2 +1,6 @@
 chapters
 images
+pandas_join_tables.ipynb
+*.csv
+!human_exerciseGSEA.csv
+!plant_exerciseGSEA.csv
