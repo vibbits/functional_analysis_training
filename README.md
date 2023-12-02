@@ -13,7 +13,7 @@ In the [activities](https://github.com/vibbits/functional_analysis_training/tree
 | ------- | ------- |------- |
 Authors | [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0001-5958-0669) Bruna Piereck | [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0009-0007-1722-2370) Janick Mathys 
 | ------- | ------- |------- |
-Contributor |[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/) Mainak Guha Roy | [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)]https://orcid.org/0000-0003-3861-4879) Joâo Pacifico
+Contributor |[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/) Mainak Guha Roy | [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-3861-4879) João Pacifico
 
 
 #### Extra reading and learning material
