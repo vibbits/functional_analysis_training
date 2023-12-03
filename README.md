@@ -19,6 +19,10 @@ Contributor |[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductor
 #### Extra reading and learning material
 - [VIB e-learning Functional Analysis](https://elearning.vib.be/courses/functional-analysis/)
 
+- FUNAGE-Pro: comprehensive web server for gene set enrichment analysis of prokaryotes
+    - [Publication](https://academic.oup.com/nar/article/50/W1/W330/6596090)
+    - [Home page](http://gseapro.molgenrug.nl/)
+
 - [Genomics Guru Youtube - How to perform GSEA](https://www.youtube.com/watch?v=KY6SS4vRchY) (desktop version)
 
 - [Lars Juhl Jensen YouTube channel](https://www.youtube.com/@larsjuhljensen)
@@ -29,5 +33,9 @@ Contributor |[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductor
 
     - [Interpreting Gene Set enrichment](https://www.youtube.com/watch?v=Yi4d7JIlAsM)
 
+    - [String and 'My data' functionality](https://www.youtube.com/watch?v=VUwybb4ZLBY)
 
+    - [String and Enrichment analysis](https://www.youtube.com/watch?v=VUwybb4ZLBY)
+
+-[An intuitive explanation of PCA](https://medium.com/swlh/an-intuitive-explanation-of-principal-component-analysis-f0debe035c23)
 
