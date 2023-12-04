@@ -37,5 +37,5 @@ Contributor |[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductor
 
     - [String and Enrichment analysis](https://www.youtube.com/watch?v=VUwybb4ZLBY)
 
--[An intuitive explanation of PCA](https://medium.com/swlh/an-intuitive-explanation-of-principal-component-analysis-f0debe035c23)
+- [An intuitive explanation of PCA](https://medium.com/swlh/an-intuitive-explanation-of-principal-component-analysis-f0debe035c23)
 
