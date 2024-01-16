@@ -1,6 +1,6 @@
 <!--
 
-author:   Kris Davie, Kobe Lavaert, Tuur Muyldermans, Steff Taelman
+author:   Bruna Piereck, Janick Mathys 
 email:    training@vib.de
 version:  1.0.0
 language: en
@@ -34,34 +34,23 @@ link:     https://raw.githubusercontent.com/vibbits/material-liascript/master/vi
 Hello and welcome to our Functional analysis workshop! We are very happy to have you here.
 
 This 1 day training aims to show you some online tools that can help you discover the functions of your set of genes/proteins.
-You can see the [slides](https://docs.google.com/presentation/d/1oNKXqt5olJPhFVUUFHvxU1EUmfnFNhZMXreW0Q8ccKs/edit?usp=sharing) and activities. Or download it from the folder called [presentation](https://github.com/vibbits/functional_analysis_training/tree/master/presentation).
-
-In the [data](https://github.com/vibbits/functional_analysis_training/tree/master/data) folder you can find **examples**, that are smaller samples with limited opportunities but fast processed data and; **exercises**, that are bigger data sets that you can do more with.
-
-In the [activities](https://github.com/vibbits/functional_analysis_training/tree/master/activities) folder you can find the description of the activities done during the course and what dataset they use. ***p.s.: This session is not yet complete.***
-
-
-
-This is the third edition of this workshop, jointly organised by the VIB Technologies and ELIXIR Belgium.
 
 > We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript. 
 > It is a distributed way of creating and sharing educational content hosted on github.
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/nextflow-workshop/2024-liascript/nextflow.md)
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/functional_analysis_training/master/README.md)
 
 ### Lesson overview
 
 > <i class="fa fa-bookmark"></i> **Description**  
-> This is our interactive hands-on course about efficient use of the ELIXIR TeSS platform.
+> This is our hands-on course on Functional Analysis.
 > 
 > <i class="fa fa-arrow-left"></i> **Prerequisites**  
 > To be able to follow this course, learners should have knowledge in:
 >
-> 1. Basic knowlegde of HTML  
-> 2. Basic knowledge of structured data as JSON-LD objects
-> 3. Being comfortable working with the CLI (command-line interface) in a Linux-based environment.  
+> 1. Basic knowlegde of molecular biology   
 > 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
@@ -79,30 +68,31 @@ This is the third edition of this workshop, jointly organised by the VIB Technol
 > 
 > <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from the ELIXIR Programme 2022-2023.
 > 
-> <i class="fa fa-hourglass"></i> **Time estimation**: 40 minutes
+> <i class="fa fa-hourglass"></i> **Time estimation**: 8 hours
 > 
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 >
->  1. [Exercises and solutions](https://github.com/vibbits/nextflow-workshop)
->  2. [Slides]()  
+>  1. [Activities](https://github.com/vibbits/functional_analysis_training/tree/master/activities)
+>  2. [Slides](https://docs.google.com/presentation/d/1oNKXqt5olJPhFVUUFHvxU1EUmfnFNhZMXreW0Q8ccKs/edit?usp=sharing)
+>  3. In the [data](https://github.com/vibbits/functional_analysis_training/tree/master/data) folder you can find **examples** that are smaller samples with limited opportunities but fast processed data.
+>  4. In the [data](https://github.com/vibbits/functional_analysis_training/tree/master/data) folder you can find **exercises** that are bigger data sets that you can do more with.
 >
-> <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the [installations](https://vibbits-nextflow-workshop.readthedocs.io/en/latest/installations.html) section.
+> <i class="fa fa-asterisk"></i> **Requirements:** No
 >
 > <i class="fa fa-life-ring"></i> **Acknowledgement**: 
 >
 > * [ELIXIR Belgium](https://www.elixir-belgium.org/)
 > * [VIB Technologies](https://www.vib.be/)
-> * [BioLizard](https://www.lizard.bio)
 >
 > <i class="fa fa-anchor"></i> **PURL**:  
 
 ### Authors
 
-@[orcid(Kris Davie)](https://orcid.org/0000-0003-2182-1249), @[orcid(Kobe Lavaerts)](https://orcid.org/0000-0003-0490-5969), @[orcid(Tuur Muyldermans)](https://orcid.org/0000-0002-3926-7293), @[orcid(Steff Taelman)](https://orcid.org/0000-0002-2685-4130)
+@[orcid(Janick Mathys)](https://orcid.org/0009-0007-1722-2370), @[orcid(Bruna Piereck)](https://orcid.org/0000-0001-5958-0669)
 
 ### Contributors
 
-@[orcid(Alexander Botzki)](https://orcid.org/0000-0001-6691-4233)
+@[orcid(João Pacifico)](https://orcid.org/0000-0003-3861-4879), Mainak Guha Roy
 
 </section>
 
@@ -132,27 +122,13 @@ Schedule day 1:
 - 15:15 - 15:30 - break
 - 15:30 - 17:00 - session
 
-_We aim to complete up to and including exercise 2.5 during this day_
-
-Schedule day 2:
-
-- 9:30 - 11:00 - session
-- 11:00 - 11:15 - break
-- 11:15 - 12:45 - session
-- 12:45 - 13:45 - lunch
-- 13:45 - 17:00 - project
-
 ## Installations
 
 Please read this page carefully **before** the start of the workshop.
 
 ### Common Setup
 
-- Install the Nextflow VSCcode Package - This will give you syntax highlighting and linting for Nextflow
-- Open a new terminal within VSCode: Terminal -> New Terminal
-- Create a new folder for the workshop
-- Clone this repository into the folder: `git clone git@github.com:VIBbits/nextflow-workshop.git`
-- Load the nextflow module: `module load Nextflow/23.10.0`
+- Internet browser
 
 ## Citing this lesson
 
