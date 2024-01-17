@@ -114,13 +114,14 @@ The presentation which goes alongside this material can be found [here](https://
 
 Schedule day 1:
 
-- 9:30 - 11:00 - session
-- 11:00 - 11:15 - break
-- 11:15 - 12:45 - session
-- 12:45 - 13:45 - lunch
-- 13:45 - 15:15 - session
-- 15:15 - 15:30 - break
-- 15:30 - 17:00 - session
+09:30 - 11:00 Organism without Reference Genome
+11:00 - 11:30 Coffee break
+11:30 - 11:45 Enrichment and Overrepresentation analysis (ORA)
+11:45 - 12:30 Lunch
+12:30 - 13:40 Gene ontology enrichment
+13:40 - 15:00 Coffee break
+15:00 - 15:15 Pathway (Networks) and gene functions
+15:15 - 17:00 Gene-set enrichment
 
 ## Installations
 
