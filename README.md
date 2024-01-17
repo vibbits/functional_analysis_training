@@ -98,7 +98,7 @@ This 1 day training aims to show you some online tools that can help you discove
 
 ## General context
 
-Welcome to our Nextflow workshop! We are very happy to have you here.
+Welcome to our Functional Analysis workshop! We are very happy to have you here.
 
 This course will guide you into the steps of how to get the answers about what the genes can tell you! With the advances of technology, understanding the load of informations and giving it some meaning is becoming more challenging. To help you through this adventure and to get the answers your data is anxious to show you, we will use ONLINE tools to annotate and analyse some Human and Plant datasets and by the end of the day everything will make sense! We will shortly talk about how to start if you work with an organism that doesn't have a Reference genome. 
 
@@ -109,12 +109,19 @@ We will use Gene Ontology, Gene enrichment as much as Pathways to interpret our 
 Schedule day 1:
 
 09:30 - 11:00 Organism without Reference Genome
+
 11:00 - 11:30 Coffee break
+
 11:30 - 11:45 Enrichment and Overrepresentation analysis (ORA)
+
 11:45 - 12:30 Lunch
+
 12:30 - 13:40 Gene ontology enrichment
+
 13:40 - 15:00 Coffee break
+
 15:00 - 15:15 Pathway (Networks) and gene functions
+
 15:15 - 17:00 Gene-set enrichment
 
 ## Installations
