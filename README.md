@@ -100,15 +100,9 @@ This 1 day training aims to show you some online tools that can help you discove
 
 Welcome to our Nextflow workshop! We are very happy to have you here.
 
-This is the third edition of this workshop, jointly organised by the VIB Bioinformatics Core and ELIXIR Belgium.
+This course will guide you into the steps of how to get the answers about what the genes can tell you! With the advances of technology, understanding the load of informations and giving it some meaning is becoming more challenging. To help you through this adventure and to get the answers your data is anxious to show you, we will use ONLINE tools to annotate and analyse some Human and Plant datasets and by the end of the day everything will make sense! We will shortly talk about how to start if you work with an organism that doesn't have a Reference genome. 
 
-- The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
-- The second session (16 & 17 November 2023) is focused on Nextflow for building scalable and reproducible bioinformatics pipelines and running them on a personal computer, cluster and cloud. Starting from the basic concepts we will build our own simple pipeline and add new features with every step, all in the new DSL2 language. On the second day, we will utilise all the gathered knowledge to build a small-scale microbiomics pipeline.
-
-This website contains the course materials and outline for the second session.
-
-The presentation which goes alongside this material can be found [here](https://docs.google.com/presentation/d/1dl7yuVZTKeOKJwXuwTLb1NGWSZKKT0-THyllVtXMFsg/edit?usp=sharing).
-
+We will use Gene Ontology, Gene enrichment as much as Pathways to interpret our data and unravel the meaning of our gene set. This introduction of Functional Analysis will elucidate the biology behind the gene and bring to light what your data means.
 
 ### Schedule
 
