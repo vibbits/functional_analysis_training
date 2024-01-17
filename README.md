@@ -55,10 +55,10 @@ This 1 day training aims to show you some online tools that can help you discove
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
-> 1. Understand Nextflow's basic concepts & syntax: channels, processes, modules, workflows, etc.
-> 2. Execute local and publicly available pipelines with different executors and environments
-> 3. Write and run Nextflow pipelines
-> 4.Write and modify config files for storing parameters related to computing hardware as well as pipeline dependent parameters
+> 1. Explain the basic concepts and terminology of functional analysis, such as gene ontology, gene enrichment, pathways, and networks.
+> 2. Use online tools to annotate and analyse human and plant datasets.
+> 3. Compare and contrast different organisms, including those without a reference genome, in terms of their functional analysis.
+> 4. Briefly evaluate the biological significance of the gene sets obtained from functional analysis.
 > 
 > <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, training providers
 > 
@@ -66,7 +66,7 @@ This 1 day training aims to show you some online tools that can help you discove
 >
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution 4.0 International  License](https://creativecommons.org/licenses/by/4.0/)
 > 
-> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from the ELIXIR Programme 2022-2023.
+> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from ELIXIR Belgium.
 > 
 > <i class="fa fa-hourglass"></i> **Time estimation**: 8 hours
 > 
