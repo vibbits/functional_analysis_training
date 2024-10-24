@@ -1,4 +1,4 @@
-# Short list of Uniprot names identified in Prosopis juliflora cultivar:DLEG910003
+# Short list of Uniprot names identified in Prosopis juliflora (Family:Fabaceae | Genus: Neltuma) cultivar:DLEG910003
 10HGO2_ARATH
 143_CATRO
 12KD_FRAAN
